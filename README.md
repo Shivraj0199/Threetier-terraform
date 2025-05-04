@@ -5,11 +5,11 @@ Threetier Web application using Terraform and AWS
 
 **The 3-tier architecture includes:**
 
-Presentation Layer (Web Tier): EC2 instances in a public subnet behind a Load Balancer.
+* Presentation Layer (Web Tier): EC2 instances in a public subnet behind a Load Balancer.
 
-Application Layer (app tier): EC2 instances in a private subnet.
+* Application Layer (app tier): EC2 instances in a private subnet.
 
-Database Layer (db tier): RDS in a private subnet.
+* Database Layer (db tier): RDS in a private subnet.
 
 ## 🛠 Step-by-Step Implementation
 
